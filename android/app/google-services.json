@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503641659764",
+    "project_id": "aexoauth-7a9ee",
+    "storage_bucket": "aexoauth-7a9ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503641659764:android:bcf56ea23156a9137ff421",
+        "android_client_info": {
+          "package_name": "com.example.axeoauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5ISYl5ViZC9g0nVNubTvWbyyfxPcquU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
